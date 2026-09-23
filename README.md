@@ -1,1 +1,1 @@
-- [Bitacora de prompts](prompts/prompts/BITACORA.md)
+- [Bitacora de prompts](prompts/prompts/TAREA.md)
